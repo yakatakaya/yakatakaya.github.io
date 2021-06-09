@@ -1,5 +1,4 @@
 ---
-layout: top
 title:  "Long Time No See"
 date:   2020-09-22 01:37:06 +0900
 categories: jekyll
