@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "yakatakaya"
-  avatar : "/assets/images/ill02.png"
+  avatar : "/assets/images/ill02.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
