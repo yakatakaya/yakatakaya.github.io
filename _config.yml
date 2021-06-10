@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: yakatakaya's memo
-email:
+email: secret
 description: >- # this means to ignore newlines until "baseurl:"
   only memo.
-twitter_username: username
+twitter_username: tagat92
 github_username: yakatakaya
 minimal_mistakes_skin: dirt
 search: true
@@ -58,32 +58,32 @@ plugins:
 author:
   name   : "yakatakaya"
   avatar : "/assets/images/ill02.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I will write daily, memo, and etc..."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/tagat92"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/yakatakaya"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/tagat92"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/tagat92"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/yakatakaya"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/tagat92"
 
 defaults:
   # _posts
