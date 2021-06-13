@@ -24,3 +24,12 @@ tags:
 2. 初期状態では`Hello World`のコマンドが追加されているからそれをコマンドパレットで実行して画面右下にメッセージが表示されたら成功
 
 ![](../../assets/images/2021-06-12-13-39-38.png)
+
+## API調べる
+
+以下にAPI一覧がある。やりたいことに対して必要そうなAPIを調査していく
+
+https://code.visualstudio.com/api/references/vscode-api
+
+### 実装したい機能
+
