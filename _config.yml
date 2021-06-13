@@ -89,7 +89,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "./_posts/_posts"
       type: posts
     values:
       layout: single

@@ -1,4 +1,5 @@
 {
+    "pasteImage.path": "${projectRoot}\\assets\\images",
     "pasteImage.showFilePathConfirmInputBox": true,
-    "pasteImage.path": "${projectRoot}\\assets\\images"
+    "pasteImage.basePath": "${currentFileDir}..\\"
 }
