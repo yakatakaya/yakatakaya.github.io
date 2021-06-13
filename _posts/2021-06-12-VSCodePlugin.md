@@ -23,7 +23,7 @@ tags:
 1. なんとプロジェクトのフォルダに移動して、F5だけでビルド始まる（超簡単）
 2. 初期状態では`Hello World`のコマンドが追加されているからそれをコマンドパレットで実行して画面右下にメッセージが表示されたら成功
 
-![](../../assets/images/2021-06-12-13-39-38.png)
+![](../assets/images/2021-06-12-13-39-38.png)
 
 ## API調べる
 
@@ -33,5 +33,5 @@ https://code.visualstudio.com/api/references/vscode-api
 
 ### 実装したい機能
 
-![](../../assets/images/2021-06-13-20-29-09.png)
+![](../assets/images/2021-06-13-20-29-09.png)
 
