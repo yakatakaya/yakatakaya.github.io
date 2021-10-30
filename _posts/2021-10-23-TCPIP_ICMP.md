@@ -4,6 +4,7 @@ categories: ネットワークスペシャリスト
 tags:
 - Linux
 - Ubuntu
+- TCP/IP
 
 ---
 
