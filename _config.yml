@@ -41,7 +41,7 @@ include:
   - _pages
 
 head_scripts:
-  - http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
