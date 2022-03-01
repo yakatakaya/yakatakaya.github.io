@@ -43,6 +43,7 @@ include:
 head_scripts:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js
   - https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.6.0/mermaid.min.js
+  - .\assets\js\mermaid.js
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
