@@ -1,6 +1,6 @@
 ---
 title:  "Rust Setup"
-categories: Rust
+categories: Programming
 outline: 何がいいんだろう。C++嫌いすぎて勉強してみる
 tags:
 - Rust
