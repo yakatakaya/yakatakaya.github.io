@@ -21,6 +21,7 @@ twitter_username: tagat92
 github_username: yakatakaya
 minimal_mistakes_skin: mint
 search: true
+search_full_content: true
 
 # Build settings
 markdown: kramdown
