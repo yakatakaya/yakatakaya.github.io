@@ -32,7 +32,7 @@ Microsoft製ということもありドキュメントはそれなりに豊富�
 ## 3Dモデリング
 
 - 正四面体、正六面体のモデル
-  - [https://qiita.com/SaitoTsutomu/items/4b977a8f75b30b369067]()
+  - [https://qiita.com/SaitoTsutomu/items/4b977a8f75b30b369067](https://qiita.com/SaitoTsutomu/items/4b977a8f75b30b369067)
   - 上記を参照（多謝）
   - 正四面体は色々とめんどくさい計算が入ると思いきや、コーン（円錐）の円を荒くすれば四面体になるという考え方は数学が苦手な自分には目から鱗だった
 - 作成したモデルに色を付けるのは分かれば簡単だった
@@ -45,7 +45,7 @@ Microsoft製ということもありドキュメントはそれなりに豊富�
 
 - プロジェクトの作成
   - 公式ドキュメントを読めば余裕
-    - [https://doc.babylonjs.com/guidedLearning/createAGame/gettingSetUp]()
+    - [https://doc.babylonjs.com/guidedLearning/createAGame/gettingSetUp](https://doc.babylonjs.com/guidedLearning/createAGame/gettingSetUp)
   - どうせならと思いTypescriptで書き始めた
 - 3Dモデルの読み込み
   - `SceneLoader.ImportMeshAsync()`を使用。
@@ -55,13 +55,13 @@ Microsoft製ということもありドキュメントはそれなりに豊富�
   - 重力、衝突判定の実装に一番時間がかかった
   - 一般的なゲームでは細かい衝突判定は必要ないため立方体などで省略することが多数の模様。３Dモデルのメッシュと同様の形の当たり判定を実現するのが面倒だった。（この点はUnityなどの方が圧倒的に簡単なのかも）
   - 一番参考にした実装は下記
-    - [https://playground.babylonjs.com/#LKPBW5]()
+    - [https://playground.babylonjs.com/#LKPBW5](https://playground.babylonjs.com/#LKPBW5)
 - クリックしたオブジェクトに力を加える
-  - [https://playground.babylonjs.com/#R66K4K#1]()
+  - [https://playground.babylonjs.com/#R66K4K#1](https://playground.babylonjs.com/#R66K4K#1)
   - 物理エンジンに比べたら余裕で完了
 - 作成したHTML＋Javascriptを公開
   - サーバーサイドの処理が一切ないためありがたくGithub Pagesを使用
-    - [https://zenn.dev/aya_ssbgc/articles/48c77f5a8ee56d]()
+    - [https://zenn.dev/aya_ssbgc/articles/48c77f5a8ee56d](https://zenn.dev/aya_ssbgc/articles/48c77f5a8ee56d)
     - 見なくても何とかなった気はするがとても参考になりました。
 
 ## 所感
