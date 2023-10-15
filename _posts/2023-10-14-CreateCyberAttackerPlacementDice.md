@@ -45,7 +45,7 @@ Microsoft製ということもありドキュメントはそれなりに豊富�
 
 - プロジェクトの作成
   - 公式ドキュメントを読めば余裕
-    - https://doc.babylonjs.com/guidedLearning/createAGame/gettingSetUp
+    - [https://doc.babylonjs.com/guidedLearning/createAGame/gettingSetUp]()
   - どうせならと思いTypescriptで書き始めた
 - 3Dモデルの読み込み
   - `SceneLoader.ImportMeshAsync()`を使用。
