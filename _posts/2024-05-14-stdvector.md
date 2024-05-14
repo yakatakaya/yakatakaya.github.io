@@ -37,4 +37,4 @@ std::vector<Test> vTest3 = vTest;
 
 参考にしたのは下記ページ
 
-[](https://qiita.com/dono3/items/af09c8512e49f174f1b5)
+[https://qiita.com/dono3/items/af09c8512e49f174f1b5]()
