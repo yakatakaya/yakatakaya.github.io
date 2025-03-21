@@ -46,7 +46,6 @@ head_scripts:
   - https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.6.0/mermaid.min.js
   - "/assets/js/mermaid.js"
   - "/assets/js/favicon.js"
-  - "/assets/js/ad.js"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
