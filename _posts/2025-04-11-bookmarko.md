@@ -29,4 +29,4 @@ Vuetifyのおかげで今時なGUIになりました。
 
 # Chrome Web Store
 初めて公開してみた
-[https://chromewebstore.google.com/detail/bookmarko/lmbnlopdoppoeaaomkadlpebkpejeiec?hl=ja]()
+[https://chromewebstore.google.com/detail/bookmarko/lmbnlopdoppoeaaomkadlpebkpejeiec?hl=ja](https://chromewebstore.google.com/detail/bookmarko/lmbnlopdoppoeaaomkadlpebkpejeiec?hl=ja)
