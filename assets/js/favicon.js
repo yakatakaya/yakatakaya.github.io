@@ -4,7 +4,7 @@ window.onload = function() {
     // faviconのリンクタグを作成
     var link = document.createElement('link');
     link.rel = 'icon';  // faviconの属性
-    link.href = './assets/images/favicon.ico';  // faviconファイルのパスを指定
+    link.href = 'https://yakatakaya.github.io/assets/images/favicon.ico';  // faviconファイルのパスを指定
 
     // headにlinkタグを追加
     document.head.appendChild(link);
